@@ -41,7 +41,7 @@
     </tr>
     <tr>
       <td style="padding: 8px;">Logic</td>
-      <td style="padding: 8px;">Set Theory & Lambda Sorting</td>
+      <td style="padding: 8px;">Set Theory,List,Dict & Lambda Sorting</td>
     </tr>
   </table>
 
