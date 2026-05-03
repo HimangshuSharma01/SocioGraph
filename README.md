@@ -60,7 +60,7 @@
     <summary>Click to view planned updates</summary>
     <ul>
       <li>Common interest matching using <code>liked_pages</code>.</li>
-      <li>Data visualization using <strong>NetworkX</strong>.</li>
+      <li>Data visualization </li>
     </ul>
   </details>
 </body>
