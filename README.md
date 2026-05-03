@@ -27,6 +27,8 @@ JSON
     {"id": 2, "name": "Bob", "friends": [1, 4]}
   ]
 }
+
+
 Tech Stack
 1. Python 3
 2. JSON Module
