@@ -25,7 +25,7 @@
   </ul>
 
   <!-- Technical Breakdown -->
-  <h3>🛠️ Technical Stack</h3>
+  <h3>Technical Stack</h3>
   <table border="1" style="width:100%; border-collapse: collapse; text-align: left;">
     <tr style="background-color: #f2f2f2;">
       <th style="padding: 8px;">Category</th>
