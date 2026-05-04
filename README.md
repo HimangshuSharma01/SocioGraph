@@ -61,6 +61,7 @@
     <ul>
       <li>Common interest matching using <code>liked_pages</code>.</li>
       <li>Data visualization </li>
+      <li>Dataset of 1 Million users </li>
     </ul>
   </details>
 </body>
