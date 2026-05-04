@@ -52,6 +52,10 @@
     <li><strong>Clean:</strong> Removes users with empty names or zero activity.</li>
     <li><strong>Discover:</strong> Scans "friends-of-friends" while filtering out existing connections.</li>
     <li><strong>Rank:</strong> Sorts the results so the most relevant matches appear first.</li>
+    
+https://github.com/user-attachments/assets/61e519b9-36ce-4279-bb55-34efd14fc94d
+
+
   </ol>
 
   <!-- Future Roadmap -->
