@@ -51,8 +51,5 @@ def find_mutuals(uid,data):
 
 h = int(input("Enter your ID to find your mutuals : "))
 s = find_mutuals(h,y)
-print(f"Fecthing mutuals for User{h}.....")
-print(f" "*300)
-print(f"The mutuals are fetched....")
-print(f" "*300)
+
 print(f"The mutuals for the User{h} is/are : {s}")
